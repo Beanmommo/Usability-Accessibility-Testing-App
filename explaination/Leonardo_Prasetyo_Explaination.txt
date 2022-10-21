@@ -1,0 +1,9 @@
+--Leonardo Prasetyo--
+Milestone 1 I do not contribute to the code, only trying to understand the algorithm which is wrong and should've just try implementing it directly, and reach out more.
+
+On Milestone 2 I was assign on Venus algorithm and managed to install it to run it on my computer, but implementation to the backend and bug fixing was all done by Josh, again i need to reach out more.
+
+On milestone 3 I started discussing on future plans of the usability app, I managed to discuss it with Luyang and he mentioned about refactoring backend, bug-fixing on duplicate screenshot, re-design the algorithm backend and make it into object oriented.
+I managed to take on making the algorithm into object oriented and did small things on refactoring the old code. I tried my best on making the algorithm into backend for straight 3 days and ask for feedback from my teammate, but at that time, they managed changed the backend and my code is basicly useless.
+
+On milestone 4 , time flies very fast and did not managed to did anything on the first week of milestone 4, and managed to ask for documentation task on the last week. I managed to do the User guide.
